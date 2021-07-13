@@ -117,7 +117,7 @@ input{
 }
 .all-card{
 	display: flex;
-	width: 90%;
+	width: 80%;
 	margin: auto;
 	flex-wrap: wrap;
 	justify-content: space-between;
