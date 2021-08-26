@@ -365,3 +365,7 @@ li.stacked{
  }
 
 }
+
+.swiper-container.swiper-initialized.swiper-horizontal.swiper-pointer-events {
+    position: relative;
+}
