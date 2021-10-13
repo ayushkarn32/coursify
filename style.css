@@ -216,7 +216,9 @@ section{
 
 
 /* sliderjs  */
-
+.slideshow-container {
+    overflow-x: hidden;
+}
 .swiper-container {
       width: 100%;
       height: 100%;
